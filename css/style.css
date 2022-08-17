@@ -1,0 +1,166 @@
+.section1{
+    padding: 10px;
+    height: 70px;
+    gap: 10px;
+    background-color: lightskyblue;
+    display: flex;
+    align-items: center;
+}
+
+
+.div1{
+    width: 60px;
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div2{
+    width: 60px;
+    height: 20px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div3{
+    width: 60px;
+    height: 30px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div4{
+    width: 60px;
+    height: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section2{
+    padding: 10px;
+    height: 70px;
+    gap: 10px;
+    background-color: lightskyblue;
+    display: flex;
+    align-items: center;
+}  
+.line{
+    height: 3px;
+    background-color: white;
+}
+.section2 div{
+    background-color: white; 
+     width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.line{
+    height: 3px;
+    background-color: white;
+}
+.section3{
+    padding: 10px;
+    height: 70px;
+    gap: 10px;
+    background-color: lightskyblue;
+    display: flex;
+    align-items: center;
+}
+.section3 div{
+    height: 40px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.div-size1{
+    flex: 1;
+}
+.div-size2{
+    flex: 1;
+}
+.div-size3{
+    flex: 2;
+}
+.section4{
+    padding: 10px;
+    height: 25vh;
+    gap: 10px;
+    background-color: lightskyblue;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.not-none{
+    background-color: white; 
+     width: 60px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.d-none{
+    background-color: lightskyblue;
+    width: 60px;
+    height: 40px;
+   
+}
+.section5{
+    padding: 10px;
+    height: 70px;
+    gap: 10px;
+    background-color: royalblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.item{
+    color: white;
+}
+.section6{
+    padding: 10px;
+    height: 70px;
+    gap: 10px;
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.section6 div{
+    height: 80px;
+    width: auto;
+    border: 1px solid royalblue;
+}
+
+.section7{
+    padding: 10px;
+    height: 130px;
+    gap: 10px;
+    background-color: royalblue;
+    border: 2px solid blue;
+   display: flex;
+   flex-direction: column;
+   justify-content: start;
+   align-items: start;
+
+}
+.section7 .div{
+    background-color: royalblue;
+}
+.aline{
+   height: 1px;
+   width: 1233px;
+   border: 1px solid blue;
+    background-color: white;
+}
+
+
