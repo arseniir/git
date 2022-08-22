@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cli": "^1.0.1",
+    "global": "^4.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
